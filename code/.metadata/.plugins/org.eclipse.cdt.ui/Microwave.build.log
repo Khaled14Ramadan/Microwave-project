@@ -1,0 +1,11 @@
+??:??:?? **** Incremental Build of configuration Debug for project Microwave ****
+Info: Internal Builder is used for build
+-avr-objdump -h -S Microwave.elf "..\\Microwave.elf" >Microwave.lss 
+Cannot run program "-avr-objdump": Launching failed
+
+Error: Program "-avr-objdump" not found in PATH
+PATH=[C:\WinAVR-20100110\bin;C:\WinAVR-20100110\utils\bin;C:/Program Files/Java/jdk-11.0.2/bin/server;C:/Program Files/Java/jdk-11.0.2/bin;C:\MinGW\bin;C:\MinGW\libexec\gcc\x86_64-w64-mingw32\8.2.0;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk-11.0.2\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\Microchip\xc8\v2.10\bin;C:\Users\AL-Esraa\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\AL-Esraa\AppData\Local\Programs\Python\Python38-32\;C:\Users\AL-Esraa\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\PyCharm Community Edition 2019.3.3\bin;;C:\eclipse]
+
+
+??:??:?? Build Finished. 0 errors, 0 warnings. (took 341ms)
+

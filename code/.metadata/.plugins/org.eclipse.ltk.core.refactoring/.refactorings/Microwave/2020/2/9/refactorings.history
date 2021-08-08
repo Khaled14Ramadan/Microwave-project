@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Microwave/microave.c&apos; to &apos;microwave.c&apos;" description="Rename resource &apos;microave.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="microave.c" name="microwave.c" stamp="1582745331410" updateReferences="true"/>
+</session>
